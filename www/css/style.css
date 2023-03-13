@@ -1,9 +1,9 @@
-body{
-    background: ;
-}
 .botao{
     width: 20vw;
     margin-left: 40vw;
+}
+body{
+   background-color: rgb(232, 116, 255);
 }
 .text-one{
     margin-top: 34vh;

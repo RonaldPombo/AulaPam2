@@ -1,2 +1,27 @@
-/**/
+body{
+    background: ;
+}
+.botao{
+    width: 20vw;
+    margin-left: 40vw;
+}
+.text-one{
+    margin-top: 34vh;
+    margin-left: 14vw;
+}
 
+.text-two{
+    margin-left: 18vw;
+}
+
+.text-imc{
+    margin-left: 15vw;
+}
+
+.input-one{
+    margin-left: 26vw;
+}
+
+.input-two{
+    margin-left: 26vw;
+}
